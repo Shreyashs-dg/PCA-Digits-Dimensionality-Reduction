@@ -63,7 +63,7 @@ PCA compressed the feature space by **~38%** while retaining **95% of the total 
 
 **Reconstruction quality at increasing numbers of components** — the clearest, most intuitive proof of PCA's information trade-off. At k=5 the digits are blurry but recognizable; by k=40 they're nearly indistinguishable from the originals:
 
-![Reconstruction comparison](images/reconstruction_comparison.png)
+![Reconstruction comparison](../images/reconstruction_comparison.png)
 
 ## Repo Structure
 
