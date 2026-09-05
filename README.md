@@ -55,15 +55,15 @@ PCA compressed the feature space by **~38%** while retaining **95% of the total 
 
 **Sample digits from the dataset:**
 
-![Sample digits](assets/sample_digits.png)
+![Sample digits](images/sample_digits.png)
 
 **Scree plot and cumulative explained variance — the basis for choosing k=40 components:**
 
-![Scree plot and cumulative variance](assets/scree_cumulative_variance.png)
+![Scree plot and cumulative variance](images/scree_cumulative_variance.png)
 
 **Reconstruction quality at increasing numbers of components** — the clearest, most intuitive proof of PCA's information trade-off. At k=5 the digits are blurry but recognizable; by k=40 they're nearly indistinguishable from the originals:
 
-![Reconstruction comparison](assets/reconstruction_comparison.png)
+![Reconstruction comparison](images/reconstruction_comparison.png)
 
 ## Repo Structure
 
