@@ -59,7 +59,7 @@ PCA compressed the feature space by **~38%** while retaining **95% of the total 
 
 **Scree plot and cumulative explained variance — the basis for choosing k=40 components:**
 
-![Scree plot and cumulative variance](images/scree_cumulative_variance.png)
+![Scree plot and cumulative variance](../PCA-Digits-Dimensionality-Reduction/images/Scree%20plot_and_cumulative_explained_variance.png)
 
 **Reconstruction quality at increasing numbers of components** — the clearest, most intuitive proof of PCA's information trade-off. At k=5 the digits are blurry but recognizable; by k=40 they're nearly indistinguishable from the originals:
 
