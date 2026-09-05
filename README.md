@@ -89,11 +89,6 @@ The scree plot and cumulative explained variance show how much variance is captu
 
 ![Scree plot and cumulative explained variance](images/Scree%20plot_and_cumulative_explained_variance.png)
 
-### Threshold Analysis
-
-This visualization supports the analysis of the variance-retention threshold used when selecting the PCA components.
-
-![Threshold analysis](images/threshold.png)
 
 ## Repo Structure
 
